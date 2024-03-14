@@ -8,4 +8,6 @@ Program.cs:
 
 Startup.cs:
   1. Create Startup.cs
+     ![image](https://github.com/tyagidivyam47/Console-App-to-Web-App-Conversion/assets/71543392/06f31b94-d00d-451d-b86c-08e86a728f1d)
+
 
